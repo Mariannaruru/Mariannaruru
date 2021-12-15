@@ -1,10 +1,10 @@
 <h1 align="center" class="display-4 font-weight-bold">Wello Horld, I'm Marianna, nice to meet you 👋</h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mariannaruru&show_icons=true&count_private=true&theme=aura&include_all_commits=true&card_width=700&custom_title=Marianna%27s%20Stats%20%28private%20repositories%20are%20not%20included%29" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariannaruru&show_icons=true&count_private=true&theme=aura&include_all_commits=true&card_width=700&custom_title=Marianna%27s%20Stats%20%28private%20repositories%20are%20not%20included%29" align="center"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariannaruru&count_private=true&theme=aura&custom_title=Marianna%27s%20Top%20Language%20%28private%20repositories%20are%20not%20included%29&card_width=700" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannaruru&count_private=true&theme=aura&custom_title=Marianna%27s%20Top%20Language%20%28private%20repositories%20are%20not%20included%29&card_width=700" align="center"/>
 </div>
 
 
